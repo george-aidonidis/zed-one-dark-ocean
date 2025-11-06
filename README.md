@@ -32,10 +32,10 @@ To test this theme locally:
 
 ## Screenshots
 
-![media1](https://i.imgur.com/RWk76vl.png)
-![media2](https://i.imgur.com/PofoTcV.png)
-![media3](https://i.imgur.com/sdtVgJ6.png)
-![media4](https://i.imgur.com/PDYH9bZ.png)
+![media1](https://i.imgur.com/OZaKFH4.png)
+![media2](https://i.imgur.com/Cm9xRmV.png)
+![media3](https://i.imgur.com/JiUZyLR.png)
+![media4](https://i.imgur.com/y5mZI6w.png)
 
 ## License
 
